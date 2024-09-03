@@ -4,7 +4,7 @@ import MultilineChart from "./views/MultilineChart";
 import Legend from "./components/Legend";
 import schc from "./SCHC.json";
 import vcit from "./VCIT.json";
-import portfolio from "./portfolio.json";
+import portfolio from "./PORTFOLIO.json";
 import "./styles.css";
 
 const portfolioData = {
